@@ -45,12 +45,10 @@
 <br />
 <br />
 
-<details>
-  <summary>Github Stats</summary>
-
-   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=neeraj-2&show_icons=true&hide_border=true" />
-</details>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/neeraj-2">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj-2&show_icons=true&theme=light&line_height=27" alt="Neeraj's github stats"/>
+</a>
+<a href="https://github.com/neeraj-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-2&theme=light&hide_langs_below=1" />
 </a>
 

@@ -46,7 +46,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=neeraj-2&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=121f61"/>
+   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=neeraj-2&show_icons=true&hide_border=true" />
 </details>
 
 

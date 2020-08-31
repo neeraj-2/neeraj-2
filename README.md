@@ -50,6 +50,9 @@
 
    <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=neeraj-2&show_icons=true&hide_border=true" />
 </details>
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-2&theme=light&hide_langs_below=1" />
+</a>
 
 <div align="left">
 

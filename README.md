@@ -50,10 +50,16 @@
 
    <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=neeraj-2&show_icons=true&hide_border=true" />
 </details>
+<div align="center">
+
+### Star❤️my repo if you like it!
+
+</div>
 
 
 [facebook]: https://www.facebook.com/profile.php?id=100038987867826
 [instagram]:https://www.instagram.com/neeraj__anand/
 [linkedin]:https://www.linkedin.com/in/neeraj-anand-b7822b190/
 [twitter]:https://twitter.com/neeraj__anand
+
 

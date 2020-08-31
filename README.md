@@ -8,7 +8,7 @@
 - 💬 Ask me about Web-Development ,Android Development,Competitive Programming
 - 📫 Reach out to me at: neeraj.2@iitj.ac.in
 - ⚡ Fun fact:None,if you are looking very seriously😊!Buzzinga
-- Find me on [Linkedin](https://www.linkedin.com/in/neeraj-anand-b7822b190/) | [Twitter](https://twitter.com/neeraj__anand)
+
 
 
 
@@ -20,8 +20,10 @@
 ### Connect with me:
 
 
-[<img align="left" alt="# | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+[<img align="left" alt="# | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="# | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="# | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="# | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -52,4 +54,6 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=100038987867826
 [instagram]:https://www.instagram.com/neeraj__anand/
+[linkedin]:https://www.linkedin.com/in/neeraj-anand-b7822b190/
+[twitter]:https://twitter.com/neeraj__anand
 

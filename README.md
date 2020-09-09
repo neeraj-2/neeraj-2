@@ -7,7 +7,7 @@
 - 💼 Education: Computer Science and Engineering at IIT Jodhpur, India
 - 💬 Ask me about Web-Development ,Android Development,Competitive Programming
 - 📫 Reach out to me at: neeraj.2@iitj.ac.in
-- ⚡ Fun fact:None,if you are looking very seriously😊!Buzzinga
+- ⚡ Fun fact:None,if you are looking very seriously😊!Bazinga
 
 
 

@@ -51,10 +51,7 @@
 <br />
 <hr>
 
-<a href="https://github.com/neeraj-2">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj-2&show_icons=true&theme=light&line_height=27" alt="Neeraj's github stats"/>
- 
-</a>
+
 <details>
 <summary>📈 My GitHub Stats</summary>
 

@@ -11,10 +11,10 @@
 
 
 
-
-
-
+<div>
  
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="260" />
 
 
 ### Connect with me:
@@ -25,6 +25,7 @@
 [<img align="left" alt="# | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="# | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="# | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -44,16 +45,19 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="opencv" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 
-
+</div>
 
 
 
 
 <br />
+ 
 <br />
+<hr>
 
 <a href="https://github.com/neeraj-2">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj-2&show_icons=true&theme=light&line_height=27" alt="Neeraj's github stats"/>
+ 
 </a>
 
 

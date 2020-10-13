@@ -56,9 +56,9 @@
 <summary>📈 My GitHub Stats</summary>
 
 <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj-2&show_icons=true&theme=light&line_height=27" alt="Neeraj's github stats"/>
-  
- 
+</p>
 </details>
+
 
 
 <div align="left">
@@ -66,6 +66,12 @@
 ### Star❤️my repo if you like it!
 
 </div>
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/neeraj-2/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 
 [facebook]: https://www.facebook.com/profile.php?id=100038987867826

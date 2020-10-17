@@ -10,7 +10,7 @@
 - ⚡ Fun fact:None,if you are looking very seriously😊!Bazinga
 
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="260" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="701" height="260" />
 
 
 ### Connect with me:

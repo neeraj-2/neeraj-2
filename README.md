@@ -5,7 +5,7 @@
 
 - 🔭 I’m a Full Stack Developer and an open source contributor.
 - 💼 Education: Computer Science and Engineering at IIT Jodhpur, India
-- 💬 Ask me about Web-Development ,Android Development,Competitive Programming
+- 💬 Ask me about anything
 - 📫 Reach out to me at: neeraj.2@iitj.ac.in
 - ⚡ Fun fact:None,if you are looking very seriously😊!Bazinga
 

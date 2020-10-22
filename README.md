@@ -7,7 +7,7 @@
 - 💼 Education: Computer Science and Engineering at IIT Jodhpur, India
 - 💬 Ask me about Web-development
 - 📫 Reach out to me at: neeraj.2@iitj.ac.in
-- ⚡ Fun fact:None,if you are looking very seriously😊!Bazinga
+- ⚡ Fun fact:idk,Google it!
 
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="701" height="260" />

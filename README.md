@@ -10,7 +10,7 @@
 - ⚡ Fun fact:idk,Google it!xD.
 
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="701" height="260" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="701" height="260"/>
 
 
 ### Connect with me:

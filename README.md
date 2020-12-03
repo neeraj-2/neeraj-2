@@ -1,6 +1,6 @@
 ### Hey,Neeraj here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--mYaMEHYU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge.png" alt="Hacktoberfest 2020" class="mx-auto max-w-75 h-auto align-middle" style="transform: rotate(-8deg);">
 
 
 - 🔭 I’m a Full Stack Developer and an open source contributor.
@@ -9,8 +9,6 @@
 - 📫 Reach out to me at: neeraj.2@iitj.ac.in
 - ⚡ Fun fact:idk,Google it!xD.
 
-
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="701" height="260"/>
 
 
 ### Connect with me:

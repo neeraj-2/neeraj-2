@@ -77,7 +77,7 @@
 
 
 [facebook]: https://www.facebook.com/profile.php?id=100038987867826
-[instagram]:https://www.instagram.com/neeraj__anand/
+[instagram]:https://www.instagram.com/unever9.nw/
 [linkedin]:https://www.linkedin.com/in/neeraj-anand-b7822b190/
 [twitter]:https://twitter.com/neeraj__anand
 

@@ -7,8 +7,8 @@
   
    <a href="https://app.daily.dev/neeraj_2" target="_blank">
     <img
-      width="300"
-         height="400"
+      width="250"
+         height="350"
       align="right"
       src="https://api.daily.dev/devcards/39abf7304aa448eb837f0711f4af7540.png?r=03v"
     />

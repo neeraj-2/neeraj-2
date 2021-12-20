@@ -10,7 +10,7 @@
       width="250"
          height="350"
       align="right"
-      src="https://api.daily.dev/devcards/39abf7304aa448eb837f0711f4af7540.png?r=03v"
+      src="https://github.com/neeraj-2/neeraj-2/blob/master/devcard.svg"
     />
   </a>
 

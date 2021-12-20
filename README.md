@@ -1,6 +1,20 @@
 ### Hey,Neeraj here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
+
+<div align="left">
+
+  
+   <a href="https://app.daily.dev/neeraj_2" target="_blank">
+    <img
+      width="300"
+         height="400"
+      align="right"
+      src="https://api.daily.dev/devcards/39abf7304aa448eb837f0711f4af7540.png?r=03v"
+    />
+  </a>
+
+  
 - 🔭 I’m a Full Stack Developer and an open source contributor.
 - 💼 Education: Computer Science and Engineering at IIT Jodhpur, India
 - 💬 Ask me about anything :),may be i will tell something interesting
@@ -9,6 +23,14 @@
 
 
 
+
+  
+  </div>
+  
+
+  <br/>
+  
+  
 ### Connect with me:
 
 

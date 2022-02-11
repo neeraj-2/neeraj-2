@@ -8,6 +8,17 @@
 
 <table>
   <tr>
+    <td >
+        
+   <a href="https://app.daily.dev/neeraj_2" target="_blank">
+    <img
+      width="250"
+         height="350"
+      align="right"
+      src="https://github.com/neeraj-2/neeraj-2/blob/master/devcard.svg"
+    />
+  </a>
+</td>
     <td valign="center">
       
 🎓 Computer Science and Engineering at IIT Jodhpur, India
@@ -21,18 +32,8 @@
 ⚡ Fun fact:idk,Google it!xD.
 
       
-<td >
-        
-   <a href="https://app.daily.dev/neeraj_2" target="_blank">
-    <img
-      width="250"
-         height="350"
-      align="right"
-      src="https://github.com/neeraj-2/neeraj-2/blob/master/devcard.svg"
-    />
-  </a>
 
-    </td>
+    
     
   </tr>
   </table>

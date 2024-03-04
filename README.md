@@ -20,8 +20,12 @@
   </a>
 </td>
     <td valign="center">
-      
-🎓 Computer Science and Engineering at IIT Jodhpur, India
+
+
+
+👨🏻‍💻 Software Developer at Microsoft, India
+
+🎓 Graduated student in Computer Science and Engineering from IIT Jodhpur, India
       
 🌱 I am just exploring whatever interests me 
 
